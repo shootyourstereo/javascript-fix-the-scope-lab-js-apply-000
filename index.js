@@ -19,5 +19,12 @@ var funkyFunction = function() {
   }
 }
 
+<<<<<<< HEAD
 var theFunk = funkyFunction();
 theFunk = theFunk();
+=======
+// We want to set theFunk equal to "FUNKY!" using our funkyFunction.
+// NOTE: you only need to modify the code below this line.
+var funkyFunction = "FUNKY!"
+var theFunk = funkyFunction
+>>>>>>> 69d5639e4509070e0eec596505453f85fa2c9b82
